@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/li-ning/static/css/main.92f68fd2.css",
+    "main.css": "/li-ning/static/css/main.10bea13f.css",
     "main.js": "/li-ning/static/js/main.234c80bc.js",
     "index.html": "/li-ning/index.html",
-    "main.92f68fd2.css.map": "/li-ning/static/css/main.92f68fd2.css.map",
+    "main.10bea13f.css.map": "/li-ning/static/css/main.10bea13f.css.map",
     "main.234c80bc.js.map": "/li-ning/static/js/main.234c80bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.92f68fd2.css",
+    "static/css/main.10bea13f.css",
     "static/js/main.234c80bc.js"
   ]
 }
